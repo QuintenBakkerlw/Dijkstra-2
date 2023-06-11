@@ -1,0 +1,29 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\quint\\Dijkstra",
+            "binaryPath": "c:\\Users\\quint\\Dijkstra\\main",
+            "binaryArgs": []
+        },
+        {
+<<<<<<< HEAD
+            "cwd": "c:\\Users\\quint\\Dijkstra-1",
+            "binaryPath": "c:\\Users\\quint\\Dijkstra-1\\main",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "c:\\Users\\quint\\Dijkstra-1",
+            "binaryPath": "c:\\Users\\quint\\Dijkstra-1\\test",
+=======
+            "cwd": "c:\\Users\\quint\\Dijkstra",
+            "binaryPath": "c:\\Users\\quint\\Dijkstra\\Test",
+>>>>>>> c332c52718b7d2c0c21c71e694902214ad681b50
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
